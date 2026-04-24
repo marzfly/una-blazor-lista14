@@ -1,9 +1,9 @@
 # una-blazor-lista14
 DDE: 29 abr 2026 - Prof Daniel  
-**NOME:** Mariana de Paula Duarte
-**CURSO:** Ciência da Computação
-**RA:** 4261214425
-**Tecnologias utilizadas:** Plataforma .NET, framework Blazor Web Assembly, linguagem C#
+**NOME:** Mariana de Paula Duarte  
+**CURSO:** Ciência da Computação  
+**RA:** 4261214425  
+**Tecnologias utilizadas:** Plataforma .NET, framework Blazor Web Assembly, linguagem C#  
 
 ## Como rodar o projeto
 - Abra o prompt de comando
